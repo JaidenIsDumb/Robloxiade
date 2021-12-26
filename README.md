@@ -1,7 +1,7 @@
 # Robloxiade
 ## Roblox Theme Project
 
-Made for Windows! *Some Icons Don't appear on MacOs For Some Weird Reason! 
+Made for Windows! *Some Icons Don't appear on MacOs For Some Weird Reason and is unstable! 
 
 ## About!
 
